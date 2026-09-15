@@ -206,8 +206,6 @@ Las principales correlaciones fueron:
 - **Temperatura - humedad:** -0.713
 - **Precipitación - humedad:** 0.997
 
-Los resultados son útiles como exploración inicial, pero el tamaño reducido de la muestra impide realizar generalizaciones climáticas confiables.
-
 ## 17. Archivos generados
 
 - `grupo_12.csv`
